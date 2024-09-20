@@ -4,7 +4,7 @@ A Python (Raspberry Pi) script that tracks the number of coffees brewed (Nespres
 
 ## State of project
 
-This project kind of works for my setup, but it’s not always spot on. The code is tailored to my specific situation and has not been optimized for easy installation or broader use. Documentation is minimal, so modifications may be required to fit your needs.
+This project kind of works for my setup, but it’s not always spot on. The code is tailored to my specific situation and has not been optimized for easy installation or broader use so modifications may be required to fit your needs.
 
 ## Notes
 
